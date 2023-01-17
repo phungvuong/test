@@ -1,1 +1,1020 @@
-
+14.161.49.29|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+14.161.47.218|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.177.27.210|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+113.161.33.113|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+113.160.3.154|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.172.96.69|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+210.245.111.235|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|25|OK
+14.224.155.143|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.185.5.99|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|69|OK
+113.161.43.216|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+222.252.11.115|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|817|OK
+113.190.232.209|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.177.235.155|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5|OK
+113.161.86.147|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+14.160.52.26|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.61.131|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.241.230.180|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+222.252.14.25|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|878|OK
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|275|OK
+14.186.29.119|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|277|OK
+117.6.244.224|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|828|OK
+14.224.145.235|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|12|OK
+222.253.42.74|support|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+113.190.245.166|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.186.47.126|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+14.187.251.235|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|294|OK
+113.161.176.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|424|OK
+14.226.222.186|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|252|OK
+14.161.23.128|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|395|OK
+222.252.11.115|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|161|OK
+14.241.67.113|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|11|OK
+14.160.70.82|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.241.230.254|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+113.185.5.99|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|71|OK
+14.160.70.178|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.160.70.158|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.241.230.200|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.177.235.155|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+117.6.244.224|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|215|OK
+14.161.46.104|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+117.4.21.94|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|503|OK
+123.16.15.217|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+123.24.206.219|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.33.113|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|303|OK
+113.161.43.216|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+117.6.254.186|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|2731|OK
+113.161.33.113|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+113.161.37.121|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.190.232.209|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.176.83|admin|password|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|242|OK
+113.161.59.73|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+14.232.243.113|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.241.230.180|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|415|OK
+113.161.43.216|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+113.190.248.130|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.160.3.154|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.37.121|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.190.232.209|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|8|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|233|OK
+14.186.29.119|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|277|OK
+14.177.235.155|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.190.232.209|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|227|OK
+14.177.235.155|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5|OK
+113.161.86.147|root|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+113.161.43.216|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|264|OK
+113.161.33.113|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+117.4.21.94|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|2719|OK
+1.11.62.185|admin|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|67|OK
+123.16.15.217|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+1.11.62.185|support|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|62|OK
+14.241.229.62|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.160.70.178|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.160.70.158|guest|guest|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.186.47.126|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+14.161.49.29|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+14.161.46.104|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+23.224.210.42|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|180|OK
+23.224.210.45|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|98|OK
+23.224.210.46|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|162|OK
+23.224.210.44|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|171|OK
+14.177.235.155|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+23.224.210.43|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|263|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|400|OK
+113.161.33.113|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+14.241.230.200|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.161.47.173|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+210.245.111.235|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|27|OK
+14.186.29.119|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|303|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|249|OK
+14.232.243.113|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+112.137.132.89|admin|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5|OK
+27.71.207.190|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+1.11.62.185|admin|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|69|OK
+113.161.176.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|449|OK
+222.252.11.115|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.161.47.173|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.241.229.250|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.241.229.62|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+113.185.5.99|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|72|OK
+14.160.70.182|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+123.25.30.106|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|15|OK
+14.224.155.143|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+14.161.47.218|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|489|OK
+113.161.33.113|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+113.161.43.216|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|223|OK
+117.4.21.94|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|329|OK
+14.161.24.141|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|225|OK
+14.161.24.141|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|107|OK
+113.161.59.73|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|220|OK
+14.161.13.16|cisco|cisco|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|362|OK
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|263|OK
+113.161.43.216|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|779|OK
+14.177.235.155|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.176.83|admin|password|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|246|OK
+123.25.30.106|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.232.243.113|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.160.15.163|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+14.177.235.155|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|8|OK
+14.226.222.186|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|307|OK
+14.186.29.119|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|429|OK
+1.11.62.185|admin|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|63|OK
+14.241.229.250|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+1.11.62.185|support|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|66|OK
+14.160.70.178|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+23.224.210.44|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|106|OK
+23.224.210.45|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|103|OK
+23.224.210.42|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|209|OK
+23.224.210.46|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|83|OK
+23.224.210.43|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|92|OK
+112.137.132.89|admin|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.210.140|user|user123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29|OK
+112.213.87.213|admin|admin@123|LIVE|FRESH|Thanh Nguyen|Tinh Tra Vinh|Vietnam|25|OK
+113.162.84.133|root|abc123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|9|OK
+210.245.111.235|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|28|OK
+113.185.5.99|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|60|OK
+14.241.229.62|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.160.70.82|guest|guest|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.160.15.163|root|Passw0rd61|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+113.161.32.149|administrator|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|469|OK
+113.161.32.149|root|123123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+118.69.77.134|admin|admin@123|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+118.69.235.183|admin|12345678|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.224.145.220|demo|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|296|OK
+113.172.126.220|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.224.145.235|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1492|OK
+113.162.168.52|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|225|OK
+113.173.76.192|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|349|OK
+123.24.203.225|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|424|OK
+113.172.108.74|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+14.160.70.82|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+113.161.32.149|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+123.21.67.123|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.160.52.2|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.160.70.110|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+14.186.154.244|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+123.16.53.97|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5|OK
+113.161.59.73|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+14.241.34.248|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|9|OK
+113.161.57.75|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|362|OK
+14.161.24.141|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1846|OK
+14.241.96.13|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+42.117.9.117|nagios|nagios|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+117.6.254.186|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|332|OK
+14.160.70.82|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5|OK
+14.160.52.2|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|345|OK
+123.20.3.214|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+123.20.244.170|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.160.70.110|admin|12345|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.161.13.16|admin|123|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|28|OK
+113.160.2.206|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.25.30.87|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|484|OK
+14.161.13.16|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|27|OK
+14.162.146.226|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+222.252.11.115|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.241.229.62|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.160.70.82|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.161.24.141|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+14.241.229.62|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+123.16.53.97|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.161.49.29|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29|OK
+123.25.30.87|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|440|OK
+14.177.235.155|dvs|dvs|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.160.52.2|dvs|dvs|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+14.161.23.98|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|459|OK
+14.177.235.155|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.241.229.250|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|210|OK
+123.20.113.120|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+113.183.102.13|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|8|OK
+123.20.70.20|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.160.52.26|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.20.113.120|samba|samba|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+14.160.52.26|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.21.154.119|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.20.113.120|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|23|OK
+116.97.28.158|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|234|OK
+113.162.175.58|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|25|OK
+113.190.245.166|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+14.238.22.118|test|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5|OK
+14.160.52.2|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.241.229.250|root|123456789|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+23.167.32.10|monitor|monitor|LIVE|FRESH|N/A|N/A|N/A|244|OK
+14.161.13.16|admin|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|1228|OK
+14.161.13.16|root|123123|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|1035|OK
+113.190.245.166|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.20.14.86|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.161.13.16|ftp|ftp|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|796|OK
+113.173.149.134|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+113.190.252.75|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.160.52.2|root|password|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.160.52.26|root|123456789|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+14.161.47.218|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+14.177.235.155|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.25.30.87|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|442|OK
+113.173.180.10|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|361|OK
+222.252.27.153|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|583|OK
+113.161.59.3|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|2085|OK
+14.241.229.62|root|123123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.186.42.88|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+123.20.43.211|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.172.96.155|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.186.182.55|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+14.187.0.8|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+14.186.37.189|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|42|OK
+14.186.204.149|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29|OK
+123.21.154.21|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+14.169.206.109|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+14.186.225.131|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+14.169.170.37|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+113.173.191.236|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|260|OK
+123.20.35.66|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|35|OK
+113.172.230.254|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.20.161.79|support|support|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+113.177.113.175|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.161.20.205|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|652|OK
+113.162.164.90|root|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|42|OK
+123.20.219.239|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+113.173.137.231|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+123.20.43.211|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.161.20.205|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|564|OK
+14.186.37.189|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+123.20.22.156|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.187.175.158|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+113.173.191.236|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|279|OK
+113.172.199.130|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+14.169.250.76|guest|guest|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|278|OK
+123.20.31.151|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+123.16.146.134|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|525|OK
+14.161.20.205|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|441|OK
+113.162.159.70|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.186.225.131|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.21.154.21|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+113.173.191.236|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|221|OK
+14.169.170.37|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+14.232.232.213|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+113.172.230.254|guest|guest|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.16.146.134|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.20.161.79|1234|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|27|OK
+14.169.170.37|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+113.173.191.236|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|444|OK
+14.169.250.76|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|334|OK
+123.21.154.21|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+113.172.199.130|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.186.194.23|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+113.172.133.81|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|24|OK
+123.21.146.207|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.172.104.92|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+113.172.243.171|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.173.223.239|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+113.172.96.37|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|354|OK
+123.20.161.79|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|27|OK
+113.172.122.207|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.186.37.189|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+113.173.96.126|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+113.173.223.239|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|23|OK
+113.177.128.133|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+123.20.57.199|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+14.169.105.68|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+123.20.143.4|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|293|OK
+113.172.122.207|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.173.223.239|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24|OK
+14.186.37.189|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+123.20.48.94|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+113.161.86.147|admin|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+123.20.2.232|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.187.175.158|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+123.21.154.119|operator|operator|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.172.225.83|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+123.20.43.211|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+14.161.49.29|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+222.252.27.153|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|516|OK
+123.20.244.139|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+123.20.12.170|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.172.135.249|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+14.186.154.244|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.172.135.249|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+123.21.188.27|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+14.161.49.29|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.172.96.155|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+123.20.43.211|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+14.186.37.189|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+123.20.2.232|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.186.204.149|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+123.20.0.27|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+113.162.164.90|system|OkwKcECs8qJP2Z|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|31|OK
+123.20.22.248|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+14.186.182.55|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+14.187.0.8|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.186.204.149|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+14.186.37.189|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+113.172.96.155|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+14.186.204.149|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+123.20.2.232|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+123.21.188.27|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33|OK
+123.20.43.211|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+123.20.36.190|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|35|OK
+123.20.22.248|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+14.186.29.236|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+14.186.31.164|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+222.252.55.139|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7|OK
+113.190.248.130|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6|OK
+123.21.186.207|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30|OK
+222.252.27.153|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|789|OK
+123.21.102.232|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+113.161.176.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|301|OK
+14.161.49.29|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.172.130.51|sell|ssh247com|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|448|OK
+123.16.146.134|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|120|OK
+113.172.199.130|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.20.43.61|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|378|OK
+14.169.250.76|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|326|OK
+123.20.43.61|sellssh247|sellssh247|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.21.154.166|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|391|OK
+113.172.199.130|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.20.43.61|sellssh247.com|the.gioi.ssh.cua.ban|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+113.177.115.47|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.186.168.44|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26|OK
+123.20.161.79|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|27|OK
+113.173.191.236|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|401|OK
+123.21.154.21|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31|OK
+123.20.35.66|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+113.177.113.175|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34|OK
+14.169.170.37|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.162.200.129|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|405|OK
+14.186.254.48|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29|OK
+123.20.161.79|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|26|OK
+14.186.201.170|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+14.186.168.44|sellssh247|com|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+113.172.230.254|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25|OK
+123.21.144.88|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32|OK
+14.169.220.51|sellssh247|comcomcom|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27|OK
+14.186.201.170|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+123.20.26.254|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28|OK
+14.169.126.254|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|289|OK
+121.189.198.60|service|service|LIVE|FRESH|N/A|N/A|Republic of Korea|174
+14.186.37.189|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+186.215.195.249|admin|admin|LIVE|FRESH|Santiago|Rio Grande do Sul|Brazil|433
+14.160.70.178|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|62
+123.20.48.94|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|65
+123.20.29.64|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|59
+124.195.255.12|oper|oper|LIVE|FRESH|Seoul|Seoul|Republic of Korea|151
+221.165.172.38|manager|manager|LIVE|FRESH|N/A|N/A|Republic of Korea|197
+14.186.60.133|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+104.238.83.196|nobody|nobody|LIVE|FRESH|Scottsdale|Arizona|United States|250
+176.31.174.3|test|12345|LIVE|FRESH|Madrid|Madrid|Spain|394
+113.172.225.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34
+219.94.2.114|root|root123|LIVE|FRESH|N/A|N/A|Malaysia|319
+123.21.244.86|user|user|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|36
+49.246.3.247|oper|oper|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|230
+106.255.253.178|ftp|ftp|LIVE|FRESH|Seoul|Seoul|Republic of Korea|123
+203.198.150.167|root|abc123|LIVE|FRESH|Tai Po|N/A|Hong Kong|168
+179.40.18.220|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Argentina|538
+103.78.73.171|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|N/A|63
+123.20.43.211|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30
+58.26.84.2|root|root123|LIVE|FRESH|Kuala Lumpur|Kuala Lumpur|Malaysia|60
+14.161.49.29|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|131
+85.105.77.20|root|P@ssw0rd!|LIVE|FRESH|N/A|N/A|Turkey|405
+202.175.173.66|uucp|uucp|LIVE|FRESH|N/A|N/A|Macao|37
+212.98.122.91|admin|admin|LIVE|FRESH|N/A|N/A|Denmark|255
+198.46.141.99|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|372
+203.99.106.163|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|747
+125.141.57.57|toor|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|116
+220.225.7.99|admin|admin|LIVE|FRESH|Mumbai|Maharashtra|India|246
+121.167.7.140|admin|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|187
+113.173.218.38|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|113
+211.55.35.225|super|super1234|LIVE|FRESH|N/A|N/A|Republic of Korea|122
+84.238.187.217|system|OkwKcECs8qJP2Z|LIVE|FRESH|Sofia|Sofia-Capital|Bulgaria|289
+117.241.72.50|admin|admin|LIVE|FRESH|N/A|N/A|India|298
+5.11.134.152|admin|admin|LIVE|FRESH|N/A|N/A|Turkey|418
+49.248.31.9|user|user|LIVE|FRESH|Badlapur|Maharashtra|India|213
+14.160.70.158|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|306
+181.57.77.77|username|password|LIVE|FRESH|N/A|N/A|Colombia|414
+125.236.232.206|anonymous|anonymous|LIVE|FRESH|N/A|N/A|New Zealand|380
+203.99.106.235|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|736
+198.46.141.98|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|363
+50.247.202.129|ftp|ftp|LIVE|FRESH|N/A|N/A|United States|250
+110.78.155.124|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|91
+109.237.151.44|user|user|LIVE|FRESH|N/A|N/A|Russia|280
+109.87.101.81|support|support|LIVE|FRESH|N/A|N/A|Ukraine|318
+125.141.57.49|toor|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|200
+43.249.53.182|admin|admin01|LIVE|FRESH|N/A|N/A|India|324
+58.121.146.4|sshd|sshd|LIVE|FRESH|N/A|N/A|Republic of Korea|88
+203.90.233.59|ftpuser|ftpuser|LIVE|FRESH|N/A|N/A|Hong Kong|209
+177.135.102.153|admin|admin|LIVE|FRESH|Glorinha|Rio Grande do Sul|Brazil|442
+203.99.106.164|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|774
+211.22.154.43|root|!@#$^|LIVE|FRESH|N/A|N/A|Taiwan|253
+66.255.245.66|root|@#$%^&*!()|LIVE|FRESH|Hopkinsville|Kentucky|United States|297
+175.197.206.92|admin|admin01|LIVE|FRESH|N/A|N/A|Republic of Korea|232
+222.252.28.31|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|116
+80.251.198.80|user|user|LIVE|FRESH|N/A|N/A|Denmark|279
+177.135.103.54|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|475
+197.44.100.177|admin|admin|LIVE|FRESH|N/A|N/A|Egypt|428
+110.78.155.109|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|123
+37.205.160.97|support|support|LIVE|FRESH|Alfonsine|Provincia di Ravenna|Italy|413
+116.58.232.254|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|196
+94.33.51.9|user|admin|LIVE|FRESH|N/A|N/A|Italy|404
+104.137.214.247|root|admin|LIVE|FRESH|Indianapolis|Indiana|United States|269
+123.21.82.183|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33
+123.21.4.163|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+123.21.214.173|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|341
+124.41.248.21|admin|admin|LIVE|FRESH|Lumbini|Lumbini Zone|Nepal|397
+123.21.224.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|284
+41.202.170.2|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|849
+14.161.23.98|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|351
+41.60.237.71|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Zambia|426
+123.21.166.188|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|43
+80.17.52.195|support|support|LIVE|FRESH|N/A|N/A|Italy|250
+190.129.31.74|support|support|LIVE|FRESH|La Paz|Departamento de La Paz|Bolivia|448
+109.87.208.206|support|support|LIVE|FRESH|N/A|N/A|Ukraine|269
+14.160.52.2|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|76
+115.84.91.146|admin|admin|LIVE|FRESH|N/A|N/A|Laos|354
+82.194.18.135|cisco|cisco|LIVE|FRESH|N/A|N/A|Azerbaijan|288
+166.141.121.97|username|password|LIVE|FRESH|N/A|N/A|United States|305
+61.39.117.32|root|admin|LIVE|FRESH|N/A|N/A|Republic of Korea|271
+50.233.28.70|operator|operator|LIVE|FRESH|N/A|N/A|United States|333
+200.59.56.29|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|753
+80.17.52.150|support|support|LIVE|FRESH|N/A|N/A|Italy|277
+200.59.51.121|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|494
+114.26.102.77|user|user|LIVE|FRESH|N/A|N/A|Taiwan|348
+111.249.214.107|user|user|LIVE|FRESH|N/A|N/A|Taiwan|239
+123.20.10.41|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+14.161.20.205|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1057
+121.142.146.167|admin|admin|LIVE|FRESH|N/A|N/A|Republic of Korea|210
+111.255.218.88|user|user|LIVE|FRESH|N/A|N/A|Taiwan|217
+14.186.37.189|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|39
+43.225.68.155|admin|admin01|LIVE|FRESH|N/A|N/A|India|184
+123.20.29.64|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|131
+202.55.171.67|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|791
+123.21.244.86|root|root|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|32
+49.246.3.251|oper|oper|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|238
+61.6.200.56|support|support|LIVE|FRESH|Bandar Seri Begawan|Brunei and Muara District|Brunei|335
+14.186.204.149|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|174
+113.161.86.147|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|33
+14.160.70.158|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|165
+112.163.240.254|root|ipscan|LIVE|FRESH|N/A|N/A|Republic of Korea|98
+197.44.100.177|admin|1234|LIVE|FRESH|N/A|N/A|Egypt|400
+202.55.171.68|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|767
+123.21.0.47|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|126
+186.96.106.53|ubnt|ubnt|LIVE|FRESH|Boquete|Provincia de Chiriqui|Panama|383
+113.172.225.83|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+220.124.211.233|admin|admin123!|LIVE|FRESH|N/A|N/A|Republic of Korea|216
+49.246.3.246|oper|oper|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|293
+109.109.41.98|user|1234|LIVE|FRESH|Sabz|East Azarbaijan|Iran|460
+49.246.89.251|service|service|LIVE|FRESH|Naju|Jeollanam-do|Republic of Korea|153
+177.19.187.79|admin|admin|LIVE|FRESH|Cachoeira do Sul|Rio Grande do Sul|Brazil|391
+187.58.132.251|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|461
+121.176.81.36|admin|admin|LIVE|FRESH|N/A|N/A|Republic of Korea|197
+14.160.70.82|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|128
+14.207.65.148|root|admin|LIVE|FRESH|N/A|N/A|Thailand|281
+123.20.29.64|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|78
+41.218.224.123|ftp|ftp|LIVE|FRESH|N/A|N/A|Ghana|411
+200.59.51.174|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|494
+200.59.52.217|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|507
+200.59.52.132|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|551
+200.59.52.180|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|806
+14.186.37.189|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|52
+113.190.252.75|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|318
+14.186.182.55|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26
+200.59.51.149|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|790
+190.202.44.194|admin|default|LIVE|FRESH|N/A|N/A|Venezuela|328
+200.59.51.152|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|451
+121.189.226.81|service|service|LIVE|FRESH|N/A|N/A|Republic of Korea|177
+59.0.16.163|admin|admin01|LIVE|FRESH|N/A|N/A|Republic of Korea|248
+49.246.3.249|oper|oper|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|425
+49.246.89.251|oper|oper|LIVE|FRESH|Naju|Jeollanam-do|Republic of Korea|150
+119.200.229.33|service|service|LIVE|FRESH|N/A|N/A|Republic of Korea|142
+121.142.146.165|config|config|LIVE|FRESH|N/A|N/A|Republic of Korea|494
+121.142.146.166|config|config|LIVE|FRESH|N/A|N/A|Republic of Korea|108
+179.184.85.121|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|460
+108.170.115.35|support|support|LIVE|FRESH|Stony Point|New York|United States|339
+186.215.197.15|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|436
+123.20.10.41|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+113.173.111.227|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|53
+14.186.60.133|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+123.20.48.94|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|94
+115.84.91.146|user|1234|LIVE|FRESH|N/A|N/A|Laos|244
+123.21.244.86|support|support|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|43
+41.202.166.216|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|328
+220.141.65.35|user|user|LIVE|FRESH|Taipei|Taipei|Taiwan|205
+113.172.59.175|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|115
+14.186.37.189|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|36
+123.21.144.88|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|54
+61.7.138.139|admin|admin01|LIVE|FRESH|Bangkok|Bangkok|Thailand|77
+183.89.95.125|admin|admin|LIVE|FRESH|N/A|N/A|Thailand|294
+123.20.43.211|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|49
+113.161.88.101|system|OkwKcECs8qJP2Z|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|304
+37.52.198.101|support|support|LIVE|FRESH|N/A|N/A|Ukraine|302
+123.21.166.188|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|67
+123.21.82.183|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|65
+123.21.224.83|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|417
+123.21.214.173|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|420
+61.6.200.56|admin|admin|LIVE|FRESH|Bandar Seri Begawan|Brunei and Muara District|Brunei|1007
+14.161.20.205|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1556
+5.152.145.48|root|admin|LIVE|FRESH|Zagarolo|Rome|Italy|284
+123.20.164.93|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|116
+218.239.6.144|support|support|LIVE|FRESH|N/A|N/A|Republic of Korea|282
+88.36.173.129|support|support|LIVE|FRESH|N/A|N/A|Italy|441
+41.202.166.231|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|312
+113.177.128.133|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|317
+123.21.82.183|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|318
+111.249.215.111|user|user|LIVE|FRESH|N/A|N/A|Taiwan|185
+123.21.4.163|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|126
+93.91.153.26|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Czech Republic|378
+202.55.168.228|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|846
+14.186.168.44|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|64
+113.172.229.192|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|279
+123.20.46.230|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25
+123.20.164.93|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+177.106.161.202|admin|admin|LIVE|FRESH|Itumbiara|Goias|Brazil|403
+116.58.237.81|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|184
+113.162.186.196|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|116
+113.173.184.185|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|41
+123.20.215.160|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|35
+14.169.209.179|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|102
+123.21.224.83|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|263
+41.202.169.84|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|202
+123.21.82.183|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+176.58.78.10|support|support|LIVE|FRESH|Gaza|Gaza Strip|Palestine|336
+200.59.51.121|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|666
+41.60.234.37|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Zambia|432
+200.59.57.15|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|467
+182.180.145.187|support|support|LIVE|FRESH|Sialkot|Punjab|Pakistan|448
+200.59.52.217|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|477
+200.59.51.149|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|743
+103.25.205.111|admin|admin|LIVE|FRESH|N/A|N/A|India|180
+14.169.206.109|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|66
+123.21.82.183|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+113.172.133.81|support|support|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|128
+36.232.238.48|user|user|LIVE|FRESH|N/A|N/A|Taiwan|331
+89.144.169.193|user|1234|LIVE|FRESH|Rasht|Ostan-e Gilan|Iran|482
+123.21.4.163|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|98
+113.172.113.243|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24
+123.20.161.79|support|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|37
+116.58.232.180|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|135
+200.59.52.34|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|534
+200.59.57.17|admin|admin|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|568
+123.21.82.183|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|45
+113.172.126.56|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|36
+123.21.82.183|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+113.172.149.249|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|76
+123.20.161.79|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|33
+123.21.224.83|admin|12345|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|394
+123.20.42.183|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|41
+218.156.2.229|config|config|LIVE|FRESH|N/A|N/A|Republic of Korea|135
+111.240.135.95|user|user|LIVE|FRESH|N/A|N/A|Taiwan|358
+113.172.126.56|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|142
+123.20.7.25|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|185
+170.254.81.142|root|root|LIVE|FRESH|N/A|N/A|N/A|462
+123.21.104.48|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|91
+123.20.215.160|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|60
+14.186.188.108|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|35
+41.72.0.221|test|test|LIVE|FRESH|N/A|N/A|Angola|416
+41.202.169.21|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|339
+14.169.206.109|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|87
+123.20.161.79|support|support|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|28
+113.172.113.243|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|36
+41.202.166.1|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|341
+218.156.2.230|config|config|LIVE|FRESH|N/A|N/A|Republic of Korea|147
+14.207.65.148|admin|admin|LIVE|FRESH|N/A|N/A|Thailand|325
+14.186.37.189|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+123.20.43.211|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|104
+41.202.169.19|ftp|ftp|LIVE|FRESH|N/A|N/A|Sudan|492
+123.20.29.64|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|42
+123.20.10.41|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|156
+123.20.43.211|admin|admin@123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|102
+119.42.124.91|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|85
+14.186.182.55|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|84
+14.186.37.189|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|334
+203.99.106.243|ubnt|ubnt|LIVE|FRESH|Jakarta|N/A|Indonesia|790
+123.20.10.41|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|140
+14.186.37.189|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+14.186.204.149|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+123.20.29.64|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+123.21.244.86|system|OkwKcECs8qJP2Z|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|46
+113.161.86.147|root|root|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|29
+123.20.10.41|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34
+14.207.65.148|support|admin|LIVE|FRESH|N/A|N/A|Thailand|219
+123.20.29.64|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|83
+113.172.232.73|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|67
+123.20.10.41|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|101
+113.177.113.80|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|320
+123.20.29.64|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|169
+14.186.21.74|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|202
+14.186.204.149|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+123.20.22.248|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|90
+123.21.188.27|admin|admin@123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|372
+123.20.36.190|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|107
+123.20.10.41|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33
+123.21.244.86|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|61
+110.77.246.142|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|149
+123.21.4.163|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30
+36.238.205.182|support|support|LIVE|FRESH|N/A|N/A|Taiwan|407
+14.186.37.189|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+170.79.89.153|root|root|LIVE|FRESH|N/A|N/A|N/A|702
+113.172.100.91|guest|guest|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|118
+14.186.211.58|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|46
+123.20.43.211|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|118
+41.202.169.41|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|433
+14.187.175.158|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|33
+113.177.120.183|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|259
+111.240.136.211|user|user|LIVE|FRESH|N/A|N/A|Taiwan|303
+14.207.11.237|root|admin|LIVE|FRESH|Pathum Thani|Changwat Pathum Thani|Thailand|361
+123.21.82.183|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+14.169.206.109|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|116
+113.172.133.81|admin|admin01|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|145
+123.20.161.79|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|109
+113.177.128.133|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|103
+179.60.215.86|admin|admin|LIVE|FRESH|Victoria|City of San Fernando|Trinidad and Tobago|352
+123.21.4.163|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|593
+36.238.72.53|user|user|LIVE|FRESH|N/A|N/A|Taiwan|212
+41.72.2.116|admin|admin|LIVE|FRESH|N/A|N/A|Angola|436
+111.240.136.58|user|user|LIVE|FRESH|N/A|N/A|Taiwan|267
+113.172.136.101|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+41.202.169.19|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|470
+110.78.149.161|root|admin|LIVE|FRESH|N/A|Changwat Chon Buri|Thailand|120
+41.202.169.19|admin|1234|LIVE|FRESH|N/A|N/A|Sudan|427
+123.20.36.190|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|250
+123.20.43.211|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+123.21.244.86|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|126
+123.20.0.27|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|111
+14.186.198.24|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|476
+41.202.169.21|1234|1234|LIVE|FRESH|N/A|N/A|Sudan|335
+41.202.169.84|support|support|LIVE|FRESH|N/A|N/A|Sudan|281
+113.172.126.56|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|170
+123.21.217.193|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|37
+123.20.215.160|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|78
+123.21.224.83|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|431
+1.175.67.177|user|user|LIVE|FRESH|N/A|N/A|Taiwan|370
+41.72.5.252|test|test|LIVE|FRESH|Luanda|Luanda Province|Angola|939
+123.21.4.163|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|112
+14.186.37.189|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|117
+123.20.48.94|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|152
+37.191.234.205|support|admin|LIVE|FRESH|N/A|N/A|Norway|228
+186.215.198.137|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|475
+191.6.152.131|admin|123|LIVE|FRESH|N/A|N/A|Brazil|394
+14.187.175.158|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|130
+113.172.225.83|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|48
+123.20.43.211|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|332
+123.20.57.199|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|107
+110.78.186.107|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|87
+110.78.151.180|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|102
+14.169.129.93|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|142
+41.72.4.230|admin|admin|LIVE|FRESH|N/A|N/A|Angola|530
+119.93.22.246|admin|1234|LIVE|FRESH|N/A|N/A|Philippines|398
+113.172.133.81|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|119
+113.172.243.171|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|286
+113.172.96.37|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|210
+123.20.215.160|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|60
+113.172.126.56|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|60
+14.186.194.23|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|412
+123.21.82.183|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+14.169.206.109|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|87
+123.20.161.79|1234|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|40
+49.246.3.249|admin|123456|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|318
+14.169.234.4|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|89
+123.21.224.83|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|200
+113.162.159.70|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|132
+113.162.186.196|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|38
+94.141.13.113|support|admin|LIVE|FRESH|N/A|N/A|Italy|2062
+122.121.123.186|user|user|LIVE|FRESH|Taipei|Taipei|Taiwan|228
+123.21.211.129|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|94
+36.238.208.150|user|user|LIVE|FRESH|N/A|N/A|Taiwan|329
+111.253.194.52|user|user|LIVE|FRESH|N/A|N/A|Taiwan|446
+113.172.231.13|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|454
+14.186.229.120|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|167
+41.72.4.137|admin|admin|LIVE|FRESH|N/A|N/A|Angola|503
+123.20.42.183|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|131
+123.21.4.163|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+114.43.108.193|user|user|LIVE|FRESH|N/A|N/A|Taiwan|454
+201.221.61.63|admin|admin|LIVE|FRESH|Montevideo|Departamento de Montevideo|Uruguay|478
+14.169.206.109|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|504
+113.172.97.22|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26
+123.21.7.214|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|46
+123.20.10.41|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|91
+14.186.182.55|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|106
+123.21.244.86|root|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|110
+203.198.149.164|root|abc123|LIVE|FRESH|Central District|N/A|Hong Kong|95
+223.197.208.186|root|abc123|LIVE|FRESH|Central District|N/A|Hong Kong|30
+58.121.146.4|sshd|sshd|LIVE|FRESH|N/A|N/A|Republic of Korea|125
+203.90.233.59|ftpuser|ftpuser|LIVE|FRESH|N/A|N/A|Hong Kong|238
+217.64.24.115|root|alpine|LIVE|FRESH|N/A|N/A|Azerbaijan|322
+106.255.253.178|ftp|ftp|LIVE|FRESH|Seoul|Seoul|Republic of Korea|62
+125.236.232.206|anonymous|anonymous|LIVE|FRESH|N/A|N/A|New Zealand|253
+166.139.103.138|username|password|LIVE|FRESH|N/A|N/A|United States|262
+198.46.141.98|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|274
+123.21.224.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|484
+41.60.237.71|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Zambia|458
+123.21.82.183|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|79
+211.104.172.54|toor|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|481
+50.233.28.70|operator|operator|LIVE|FRESH|N/A|N/A|United States|412
+85.105.77.20|root|P@ssw0rd!|LIVE|FRESH|N/A|N/A|Turkey|292
+71.162.4.80|ubnt|ubnt|LIVE|FRESH|Pittsburgh|Pennsylvania|United States|224
+211.22.154.43|root|!@#$^|LIVE|FRESH|N/A|N/A|Taiwan|321
+198.46.141.102|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|304
+123.21.214.173|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|410
+113.172.130.51|sell|ssh247com|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|338
+41.202.170.2|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|1419
+1.234.63.161|test|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|212
+103.78.73.171|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|N/A|75
+198.46.141.101|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|296
+82.207.98.250|support|support|LIVE|FRESH|N/A|N/A|Ukraine|308
+211.104.172.1|toor|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|123
+198.46.141.99|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|303
+50.247.202.129|ftp|ftp|LIVE|FRESH|N/A|N/A|United States|376
+124.41.248.21|admin|admin|LIVE|FRESH|Lumbini|Lumbini Zone|Nepal|305
+211.104.172.2|toor|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|109
+103.36.124.165|admin|admin01|LIVE|FRESH|N/A|N/A|India|447
+125.141.57.49|toor|1234|LIVE|FRESH|N/A|N/A|Republic of Korea|436
+123.21.4.163|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|52
+166.130.4.37|username|password|LIVE|FRESH|N/A|N/A|United States|338
+109.87.208.206|support|support|LIVE|FRESH|N/A|N/A|Ukraine|304
+114.79.146.173|admin|admin|LIVE|FRESH|Mumbai|Maharashtra|India|191
+200.59.52.34|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|578
+66.255.245.66|root|@#$%^&*!()|LIVE|FRESH|Hopkinsville|Kentucky|United States|284
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|294
+202.175.173.66|uucp|uucp|LIVE|FRESH|N/A|N/A|Macao|57
+176.31.174.3|test|12345|LIVE|FRESH|Madrid|Madrid|Spain|300
+200.59.52.180|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|689
+104.238.83.196|nobody|nobody|LIVE|FRESH|Scottsdale|Arizona|United States|423
+200.59.51.121|cisco|cisco|LIVE|FRESH|Buenos Aires|Buenos Aires F.D.|Argentina|519
+198.46.141.100|ftpuser|test123|LIVE|FRESH|Buffalo|New York|United States|323
+117.198.103.116|admin|admin01|LIVE|FRESH|Udupi|Karnataka|India|175
+41.215.8.134|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Kenya|433
+212.98.122.91|admin|admin|LIVE|FRESH|N/A|N/A|Denmark|222
+41.155.252.17|username|password|LIVE|FRESH|N/A|N/A|Egypt|610
+49.246.89.251|service|service|LIVE|FRESH|Naju|Jeollanam-do|Republic of Korea|224
+109.87.101.81|support|support|LIVE|FRESH|N/A|N/A|Ukraine|484
+117.241.72.50|admin|admin|LIVE|FRESH|N/A|N/A|India|611
+89.144.187.218|user|1234|LIVE|FRESH|Rasht|Ostan-e Gilan|Iran|451
+105.96.95.15|root|root|LIVE|FRESH|N/A|N/A|Algeria|480
+89.236.35.28|admin|admin|LIVE|FRESH|N/A|N/A|Sweden|303
+110.49.210.232|admin|admin|LIVE|FRESH|N/A|N/A|Thailand|1073
+31.42.49.217|support|support|LIVE|FRESH|N/A|N/A|Ukraine|220
+123.21.166.188|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|146
+193.242.215.69|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Poland|207
+113.173.190.204|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|64
+49.246.3.249|admin|123456|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|223
+113.173.184.185|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+186.215.197.15|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|416
+159.192.253.76|support|admin|LIVE|FRESH|Sugar Land|Texas|United States|148
+113.177.115.47|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|205
+14.186.168.44|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|110
+179.40.18.220|system|OkwKcECs8qJP2Z|LIVE|FRESH|N/A|N/A|Argentina|474
+123.20.161.79|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|73
+113.172.126.56|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|594
+123.20.7.25|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|143
+24.120.36.132|admin|admin|LIVE|FRESH|N/A|N/A|United States|314
+221.165.172.38|manager|manager|LIVE|FRESH|N/A|N/A|Republic of Korea|123
+121.189.226.81|service|service|LIVE|FRESH|N/A|N/A|Republic of Korea|142
+37.205.160.97|support|support|LIVE|FRESH|Alfonsine|Provincia di Ravenna|Italy|305
+123.20.215.160|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|186
+111.240.135.95|user|user|LIVE|FRESH|N/A|N/A|Taiwan|387
+14.186.188.108|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|94
+186.215.199.185|admin|admin|LIVE|FRESH|N/A|N/A|Brazil|491
+159.192.253.76|support|admin|LIVE|FRESH|Sugar Land|Texas|United States|118
+110.78.155.109|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|89
+95.71.198.10|admin|admin|LIVE|FRESH|N/A|N/A|Russia|389
+14.186.254.48|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+110.78.151.180|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|140
+1.175.67.177|user|user|LIVE|FRESH|N/A|N/A|Taiwan|246
+123.20.161.79|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|58
+41.202.166.19|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|412
+41.202.166.7|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|546
+41.202.169.19|root|admin|LIVE|FRESH|N/A|N/A|Sudan|1322
+94.33.51.9|user|admin|LIVE|FRESH|N/A|N/A|Italy|356
+123.21.224.83|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|454
+121.176.81.36|root|root|LIVE|FRESH|N/A|N/A|Republic of Korea|109
+14.186.168.44|sellssh247|com|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|80
+123.21.144.88|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|127
+121.189.198.60|service|service|LIVE|FRESH|N/A|N/A|Republic of Korea|133
+121.142.146.166|config|config|LIVE|FRESH|N/A|N/A|Republic of Korea|181
+211.74.79.192|user|user|LIVE|FRESH|Taipei|Taipei|Taiwan|312
+41.202.166.98|admin|admin|LIVE|FRESH|N/A|N/A|Sudan|740
+41.202.169.84|admin|1234|LIVE|FRESH|N/A|N/A|Sudan|456
+14.186.194.23|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|83
+49.246.3.251|oper|oper|LIVE|FRESH|Gwangju|Gwangju|Republic of Korea|315
+41.72.0.221|admin|admin|LIVE|FRESH|N/A|N/A|Angola|458
+61.7.189.225|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|368
+110.77.246.142|root|admin|LIVE|FRESH|Bangkok|Bangkok|Thailand|247
+14.187.38.96|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|56
+14.186.211.58|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|115
+113.173.217.153|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+123.20.48.94|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|154
+123.21.244.86|1234|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|94
+14.186.60.133|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|104
+14.186.204.149|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|103
+123.21.244.86|admin|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|35
+113.172.225.83|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34
+123.20.10.41|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|41
+123.21.4.163|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|72
+14.186.229.120|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|130
+123.20.29.64|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|79
+14.226.247.134|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|126
+113.172.231.13|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|379
+210.245.111.235|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|125
+14.241.229.250|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|37
+14.224.155.143|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7
+113.185.5.99|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|108
+14.241.229.62|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|80
+14.241.34.248|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|12
+14.241.96.13|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|54
+14.169.124.179|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|260
+113.161.41.201|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|365
+14.161.47.173|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+14.161.13.16|cisco|cisco|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|69
+14.186.29.119|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|335
+14.241.230.180|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|119
+113.172.96.69|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|972
+14.161.46.104|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|373
+222.252.11.115|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|536
+14.161.23.128|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|338
+14.160.52.26|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+222.252.194.116|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|233
+14.160.70.110|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|36
+14.187.251.235|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|432
+14.161.47.173|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|327
+113.190.232.209|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6
+14.169.124.179|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|490
+222.252.194.116|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|290
+14.241.230.200|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|41
+210.245.111.235|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|25
+14.224.155.143|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|10
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|215
+113.161.43.216|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|135
+118.70.126.155|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|333
+113.161.43.216|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|64
+113.161.41.201|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|276
+113.161.43.216|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|199
+113.190.248.130|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25
+113.190.245.166|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|8
+14.169.124.179|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|254
+14.186.29.119|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|339
+113.190.232.209|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|324
+14.232.243.113|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|134
+123.20.145.251|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|164
+113.161.33.113|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|52
+1.11.62.185|admin|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|152
+1.11.62.185|support|admin|LIVE|FRESH|Seoul|Seoul|Republic of Korea|73
+113.190.232.209|nagios|nagios|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|6
+23.224.210.46|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|71
+23.224.210.44|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|95
+23.224.210.45|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|104
+23.224.210.43|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|104
+23.224.210.42|nagios|nagios|LIVE|FRESH|Cheyenne|Wyoming|United States|74
+14.241.229.62|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|50
+14.186.29.119|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|453
+113.161.33.113|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|25
+14.241.230.180|cisco|cisco|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|39
+112.137.132.89|admin|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|5
+27.71.207.190|ubnt|ubnt|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+210.245.111.235|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|95
+14.177.182.2|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|88
+113.161.210.140|user|user123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|177
+113.160.156.22|root|abc123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|53
+112.213.87.213|admin|admin@123|LIVE|FRESH|Thanh Nguyen|Tinh Tra Vinh|Vietnam|26
+113.162.84.133|root|abc123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|96
+113.161.41.201|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|270
+14.186.57.206|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26
+14.186.233.43|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|214
+118.69.77.134|admin|admin@123|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|54
+14.224.145.220|demo|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|302
+113.172.210.206|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|81
+113.162.168.52|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|451
+113.173.76.192|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|386
+14.161.47.218|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1954
+113.172.108.74|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|321
+113.172.110.77|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|128
+222.252.28.31|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|10
+113.172.209.33|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|88
+14.160.70.82|1234|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|874
+42.117.9.117|nagios|nagios|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|47
+222.252.194.116|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|352
+113.161.88.98|admin|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|1606
+14.232.161.4|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1762
+113.172.230.247|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|78
+123.25.30.87|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|367
+113.190.252.75|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|46
+123.21.86.11|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|293
+123.20.3.214|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|89
+113.160.2.206|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|46
+123.21.86.11|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|370
+113.190.252.75|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|17
+123.20.62.192|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|68
+14.186.31.24|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|36
+14.160.70.182|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|104
+123.20.85.211|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|58
+123.25.30.87|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|374
+14.160.70.182|dvs|dvs|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|699
+113.160.3.154|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1526
+113.160.3.154|dvs|dvs|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|405
+123.20.113.120|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|75
+123.20.85.211|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|52
+123.20.70.20|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|35
+123.20.26.214|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+123.20.113.120|samba|samba|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|98
+113.190.252.75|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|36
+123.20.113.120|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|130
+113.161.88.98|operator|operator|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|575
+113.162.175.58|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|106
+113.172.174.198|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24
+115.73.213.31|root|admin|LIVE|FRESH|Cho Ha|Tinh Bac Giang|Vietnam|1641
+113.160.3.154|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|518
+14.241.34.248|root|abc123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|48
+23.167.32.10|monitor|monitor|LIVE|FRESH|N/A|N/A|N/A|289
+113.190.245.166|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|80
+14.160.70.110|admin|P@ssw0rd|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|161
+123.20.14.86|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|300
+123.20.62.192|admin|123|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|58
+14.241.229.62|root|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|132
+14.241.229.250|root|123456|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+113.173.149.134|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|78
+123.20.62.192|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|275
+14.160.52.2|root|password|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|380
+14.160.52.26|root|123456789|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26
+14.231.251.52|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1543
+123.20.43.211|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|78
+123.20.10.41|user|user|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|95
+14.186.182.55|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|43
+113.190.252.75|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+123.21.187.174|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|395
+123.20.42.183|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|47
+113.172.126.56|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|96
+14.169.206.109|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|98
+123.21.224.83|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|456
+123.21.4.163|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|250
+123.20.161.79|support|support|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|84
+123.20.43.211|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+123.21.211.129|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+123.20.29.64|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|30
+14.161.20.205|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|1591
+14.186.37.189|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|71
+14.186.229.120|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|68
+14.187.175.158|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|72
+14.160.52.2|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+123.21.224.83|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|219
+113.173.184.185|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+123.21.4.163|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|224
+113.162.159.70|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+113.162.186.196|test|test|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|33
+14.186.195.152|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|114
+123.21.224.83|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|433
+123.21.4.163|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|107
+123.20.161.79|1234|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|87
+123.20.215.160|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|59
+113.172.126.56|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|24
+14.186.194.23|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|117
+113.162.186.196|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|70
+123.21.25.198|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|95
+113.172.133.81|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|27
+113.172.243.171|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|42
+113.161.86.147|support|support|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|185
+113.172.96.37|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|301
+123.20.161.79|admin|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|107
+123.20.7.136|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|309
+113.190.252.75|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|7
+123.21.4.163|admin|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|84
+14.169.129.93|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+14.186.37.189|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|284
+113.177.128.133|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|108
+123.20.57.199|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+171.237.91.146|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|307
+123.21.4.163|user|1234|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|50
+14.186.37.189|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|79
+123.20.48.94|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+123.20.222.175|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|88
+14.161.49.29|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|29
+113.161.86.147|admin|1234|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|82
+14.187.175.158|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|65
+123.20.43.211|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|61
+113.172.225.83|admin|admin01|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|251
+123.21.230.24|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|32
+123.21.187.174|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|323
+14.187.89.85|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|83
+123.20.244.139|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+14.186.255.235|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|391
+113.173.134.22|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|51
+113.177.113.80|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|27
+123.20.12.170|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+14.187.89.85|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|26
+14.232.161.4|system|OkwKcECs8qJP2Z|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|741
+113.173.134.22|support|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|31
+123.21.230.24|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|39
+123.21.188.27|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|108
+14.186.21.74|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|451
+123.20.36.190|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|109
+113.190.252.75|admin|0l0ctyQh243O63uD|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|10
+113.161.86.147|root|admin|LIVE|FRESH|Ho Chi Minh City|Ho Chi Minh City|Vietnam|28
+123.20.29.64|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
+123.20.43.211|support|support|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|124
+14.186.37.189|ftp|ftp|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|122
+14.186.204.149|root|root|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|34
+123.20.0.27|admin|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|52
+123.20.22.248|root|alpine|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|100
+123.21.187.174|root|admin|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|284
+14.186.182.55|test|test|LIVE|FRESH|Hanoi|Thanh Pho Ha Noi|Vietnam|28
